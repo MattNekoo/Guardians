@@ -1,2 +1,2 @@
 # Guardians
-Projeto de banco de dados
+Projeto piloto de banco de dados
